@@ -11,11 +11,11 @@ class SuperDuper
 
     function __construct()
     {
-        echo '<hr>This is the "__constract method" of the "SuperDuper" Class from the library<hr>';
+//        echo '<hr>This is the "__constract method" of the "SuperDuper" Class from the library<hr>';
     }
 
     function myMethod (){
-        echo '<br>this is a method of the "SuperDuper" Class<br>';
+//        echo '<br>this is a method of the "SuperDuper" Class<br>';
     }
 
 }
